@@ -2,7 +2,7 @@
 **diy# DiyaDas-README
 <!-- Banner / GIF (Optional, you can replace with your own) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/diyadas1411/diyadas1411/main/hello-girl.png" width="600" alt="Hello Coding Girl">
 </p>
 
 <h1 align="center">Hi 👋, I'm Diya Das</h1>
